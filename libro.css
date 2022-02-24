@@ -1,0 +1,8 @@
+*{
+    color:blue;
+}
+span{
+background-color: yellow;
+display: inline-block;
+color:black;
+}
